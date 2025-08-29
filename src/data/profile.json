@@ -1,0 +1,232 @@
+{
+  "personal": {
+    "name": "Hariharan NKS",
+    "title": "Software Engineer | Digital Strategy & Market Research | AI, Cloud and SaaS Enthusiast",
+    "tagline": "Building scalable solutions that align technology with business objectives",
+    "description": "Software Engineer with nearly 5 years of experience in full-stack and cloud-native development, with expertise in React.js, Node.js, Progressive Web Applications (PWA), PostgreSQL, and AWS. Improved application performance by 40% by switching to Next.js framework. Currently pursuing Master's in Digital Transformation from the University of Wollongong in Dubai, with an interest in AI, cloud, and data analytics.",
+    "email": "nkshariharan17@gmail.com",
+    "location": "Dubai, United Arab Emirates",
+    "github": "https://github.com/harinks",
+    "linkedin": "https://linkedin.com/in/hariharan-nks",
+    "twitter": "https://twitter.com/nkshariharan",
+    "avatar": "/avatar.jpg"
+  },
+      "skills": [
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "TypeScript",
+      "JavaScript",
+      "Python",
+      "PostgreSQL",
+      "AWS",
+      "Redis",
+      "Kafka",
+      "Git",
+      "Tailwind CSS",
+      "PWA",
+      "GraphQL",
+      "Express.js",
+      "React Native",
+      "Capacitor.js",
+      "Ionic",
+      "Remix.js",
+      "Frappe",
+      "GPT-4 APIs",
+      "Hasura GraphQL",
+      "CI/CD",
+      "Figma"
+    ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Freelance Web Developer",
+      "company": "Signet Electronics",
+      "location": "Chennai, India",
+      "period": "Aug 2024 - Nov 2024",
+      "description": "Design and deploy responsive websites using the MERN stack. Migrated legacy projects to Next.js, improving performance by over 40%.",
+      "bulletPoints": [
+        "Design and deploy responsive websites using the MERN stack",
+        "Migrated legacy projects to Next.js, improving performance by over 40%",
+        "Created reusable UI components and optimized frontend architecture for maintainability",
+        "Integrated third-party libraries, and ensured mobile responsiveness across devices"
+      ],
+      "technologies": ["React.js", "Next.js", "Node.js", "MongoDB", "Express.js", "MERN Stack"]
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer",
+      "company": "FR8 - India's Reliable Online Truck Booking Platform",
+      "location": "Chennai, India",
+      "period": "May 2022 - April 2024",
+      "description": "Designed and implemented a Proof of Delivery (POD) system, improving tracking, efficiency, and reducing costs by 50%.",
+      "bulletPoints": [
+        "Designed and implemented a Proof of Delivery (POD) system, improving tracking, efficiency, and reducing costs by 50%",
+        "Built responsive UIs focusing on reusable components and custom hooks for faster development",
+        "Contributed to the migration of internal software from React Native to Next.js to improve scalability and performance",
+        "Designed and developed REST APIs, implemented custom authentication, in-app chat, dynamic PDF generation, and AWS S3 file uploads",
+        "Developed Progressive Web Apps (PWAs) with a unified codebase for Web and Mobile, ensuring faster loading times and reliable performance",
+        "Built an automated messaging system with the WhatsApp Business API for customer communication and marketing campaigns",
+        "Worked with Kafka-based event processing for real-time data updates and improved system scalability",
+        "Implemented Cron jobs for scheduled tasks, automating backend processes and enhancing system reliability"
+      ],
+      "technologies": ["React.js", "Next.js", "React Native", "Node.js", "PostgreSQL", "AWS S3", "Kafka", "PWA", "WhatsApp Business API", "REST API"]
+    },
+    {
+      "id": 3,
+      "title": "Internship",
+      "company": "Epsilon Electronic Equipment & Components Pvt Ltd",
+      "location": "Hyderabad, India",
+      "period": "Sep 2020 - Dec 2020",
+      "description": "Contributed to a project involving manufacturing of Push Button Magneto Telephone MTI 201 for Indian Railways.",
+      "bulletPoints": [
+        "Contributed to a project involving manufacturing of Push Button Magneto Telephone MTI 201 for Indian Railways"
+      ],
+      "technologies": ["Electronics", "Manufacturing", "Telecommunications"]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Master of Science in Digital Transformation",
+      "institution": "University of Wollongong in Dubai",
+      "location": "Dubai, United Arab Emirates",
+      "period": "Jan 2025 - June 2026",
+      "description": "Currently pursuing Master's in Digital Transformation with focus on AI, cloud, and data analytics."
+    },
+    {
+      "id": 2,
+      "degree": "Global Project Management Professional Diploma Certificate",
+      "institution": "Golden Gate University",
+      "location": "San Francisco, California",
+      "period": "Jan 2024 - June 2024",
+      "description": "GPA: 3.56/4.0 - Professional diploma in project management."
+    },
+    {
+      "id": 3,
+      "degree": "Full Stack Developer Program",
+      "institution": "GUVI Geek Networks, IITM Research Park",
+      "location": "Chennai, India",
+      "period": "Oct 2021 - Apr 2022",
+      "description": "Comprehensive full-stack development certification program."
+    },
+    {
+      "id": 4,
+      "degree": "Bachelor in Electronics and Communication Engineering",
+      "institution": "Chennai Institute of Technology",
+      "location": "Chennai, India",
+      "period": "Aug 2017 - April 2021",
+      "description": "GPA: 7.1/10 - Specialized in electronics and communication engineering."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Loads (FR8) - Truck Brokerage Application",
+      "description": "Contributed to the development of a truck brokerage application with UI components, custom hooks, authentication flow, deep linking, custom React-Android bridges, and Kafka-based event processing.",
+      "image": "/projects/fr8-loads.jpg",
+      "technologies": ["React.js", "Capacitor.js", "Ionic", "Kafka", "Android Bridge"],
+      "github": "https://github.com/harinks/fr8-loads",
+      "live": "https://fr8-loads.com",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "OpenFR8 - Cross-border Load Board",
+      "description": "Contributed as a full Stack developer for cross-border load board software facilitating freight movement between the MENA region.",
+      "image": "/projects/openfr8.jpg",
+      "technologies": ["Remix.js", "Frappe", "PostgreSQL", "Full Stack"],
+      "github": "https://github.com/harinks/openfr8",
+      "live": "https://openfr8.com",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "StudySync — AI-Powered Study Planner (SaaS Product)",
+      "description": "Designed and developed an AI-powered SaaS product using Next.js + GPT-4 + Superbase. Conducted user persona research and integrated ML-based study suggestions.",
+      "image": "/projects/studysync.jpg",
+      "technologies": ["Next.js", "GPT-4", "Supabase", "AI/ML", "SaaS"],
+      "github": "https://github.com/harinks/studysync",
+      "live": "https://studysync.vercel.app",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Market Research Case Study — Walmart Text to Shop",
+      "description": "Conducted a strategic study on Walmart's NLP-based conversational AI system. Benchmarked AI competitors and assessed personalization in omnichannel retail.",
+      "image": "/projects/walmart-case.jpg",
+      "technologies": ["Market Research", "AI", "NLP", "Strategy", "Analysis"],
+      "github": "https://github.com/harinks/walmart-case-study",
+      "live": "https://walmart-case-study.vercel.app",
+      "featured": false
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "AI-Driven Digital Transformation: A Comprehensive Guide",
+      "excerpt": "Exploring how artificial intelligence is revolutionizing business processes and driving digital transformation across industries.",
+      "content": "Digital transformation has become a critical imperative for businesses in today's rapidly evolving technological landscape...",
+      "image": "/blog/ai-digital-transformation.jpg",
+      "date": "2025-01-15",
+      "readTime": "12 min read",
+      "tags": ["AI", "Digital Transformation", "Business Strategy"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Building Scalable SaaS Products with Next.js and Supabase",
+      "excerpt": "A deep dive into creating scalable SaaS applications using modern technologies and best practices.",
+      "content": "Building a successful SaaS product requires careful consideration of scalability, performance, and user experience...",
+      "image": "/blog/saas-nextjs-supabase.jpg",
+      "date": "2025-01-10",
+      "readTime": "15 min read",
+      "tags": ["SaaS", "Next.js", "Supabase", "Full Stack"],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Progressive Web Apps: The Future of Mobile Development",
+      "excerpt": "Understanding PWAs and their role in modern web development, with practical implementation examples.",
+      "content": "Progressive Web Apps represent a significant evolution in how we think about web applications...",
+      "image": "/blog/pwa-future.jpg",
+      "date": "2025-01-05",
+      "readTime": "10 min read",
+      "tags": ["PWA", "Mobile Development", "Web Apps"],
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Kafka Event Processing in Modern Applications",
+      "excerpt": "Implementing real-time event processing with Apache Kafka for scalable and reliable systems.",
+      "content": "Event-driven architecture has become essential for building scalable and responsive applications...",
+      "image": "/blog/kafka-event-processing.jpg",
+      "date": "2024-12-28",
+      "readTime": "14 min read",
+      "tags": ["Kafka", "Event Processing", "Microservices"],
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Modern CSS Techniques",
+      "excerpt": "Exploring modern CSS techniques including Grid, Flexbox, and CSS custom properties.",
+      "content": "CSS has evolved significantly over the years with powerful new features...",
+      "image": "/blog/modern-css.jpg",
+      "date": "2023-12-20",
+      "readTime": "7 min read",
+      "tags": ["CSS", "Frontend", "Design"],
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "API Design Principles",
+      "excerpt": "Best practices for designing RESTful APIs that are scalable, maintainable, and developer-friendly.",
+      "content": "API design is a critical aspect of modern software development...",
+      "image": "/blog/api-design.jpg",
+      "date": "2023-12-15",
+      "readTime": "9 min read",
+      "tags": ["API", "Backend", "Design"],
+      "featured": false
+    }
+  ]
+} 
