@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
-import { ArrowLeft, Calendar, Clock, Tag } from 'lucide-react';
+import { ArrowLeft, Calendar, Clock } from 'lucide-react';
 import Link from 'next/link';
 import { getBlogPostById } from '@/lib/data';
 import { notFound } from 'next/navigation';
@@ -116,7 +116,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
                 </ul>
 
                 <p className="text-muted-foreground leading-relaxed mb-6">
-                  As we continue to build more complex applications, it's crucial to maintain a solid foundation. This includes proper state management, component composition, and performance considerations.
+                  As we continue to build more complex applications, it&apos;s crucial to maintain a solid foundation. This includes proper state management, component composition, and performance considerations.
                 </p>
 
                 <div className="bg-muted/50 p-6 rounded-lg border-l-4 border-primary">

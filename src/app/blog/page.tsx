@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button';
 import { ArrowLeft, Calendar, Clock, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { getAllBlogPosts } from '@/lib/data';
-import { BlogPost } from '@/types';
+// import { BlogPost } from '@/types';
 
 const POSTS_PER_PAGE = 6;
 
