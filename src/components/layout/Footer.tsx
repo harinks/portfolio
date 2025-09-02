@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { Github, Linkedin, Twitter, Code } from 'lucide-react';
+import Link from 'next/link';
 import { Personal } from '@/types';
 
 interface FooterProps {
@@ -101,12 +102,12 @@ export default function Footer({ personal }: FooterProps) {
                 </a>
               </li>
               <li>
-                <a
+                <Link
                   href="/blog"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                 >
                   Blog
-                </a>
+                </Link>
               </li>
               <li>
                 <a
