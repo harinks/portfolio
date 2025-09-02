@@ -276,7 +276,7 @@ export default function Hero({ personal }: HeroProps) {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-3xl font-bold tracking-tight text-foreground sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl"
           >
-            Hi, I'm{' '}
+            Hi, I&apos;m{' '}
             <span className="text-gradient-primary animate-pulse">
               {personal.name}
             </span>
