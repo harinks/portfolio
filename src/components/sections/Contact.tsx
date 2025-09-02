@@ -43,7 +43,7 @@ export default function Contact({ personal }: ContactProps) {
             Get In Touch
           </h2>
           <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
-            Let's discuss your next project or just say hello
+            Let&apos;s discuss your next project or just say hello
           </p>
         </motion.div>
 

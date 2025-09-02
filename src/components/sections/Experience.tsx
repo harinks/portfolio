@@ -9,7 +9,6 @@ import {
   Briefcase,
   GraduationCap,
   MapPin,
-  Calendar,
   Eye,
   ChevronRight,
 } from "lucide-react";
@@ -37,7 +36,6 @@ interface TimelineItem {
 
 export default function ExperienceSection({
   experience,
-  education,
 }: ExperienceSectionProps) {
   const [selectedExperience, setSelectedExperience] =
     useState<Experience | null>(null);
@@ -237,7 +235,7 @@ export default function ExperienceSection({
             <div className="absolute left-6 sm:left-11 top-0 bottom-0 w-0.5 bg-gradient-to-b from-primary via-secondary to-accent" />
 
             <div className="space-y-6 sm:space-y-8">
-              {timelineItems.map((item, index) => (
+              {timelineItems.map((item) => (
                 <motion.div
                   key={item.id}
                   variants={itemVariants}
